@@ -12,7 +12,6 @@ public class 面试题15_字符串中的所有变位词 {
         List l=findAnagrams(s1,s2);
 //        String res=Arrays.toString(l);
         System.out.println(l);
-
     }
 
     public static List<Integer> findAnagrams(String s1, String s2){
